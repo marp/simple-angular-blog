@@ -1,0 +1,15 @@
+$primary: #555500;
+$secondary: #000000;
+
+$shadow: #000;
+
+.header-logo{
+    color: $primary;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    letter-spacing: 5px;
+    word-spacing: 25px;
+    font-weight: 900;
+    text-shadow: 3px 3px $shadow;
+}
